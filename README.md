@@ -8,11 +8,6 @@
          alt="Telegram" width="48" height="48"
          style="margin: 0 12px; border-radius: 50%;" />
   </a>
-  <a href="mailto:rog.konstantin@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"
-         alt="Gmail" width="48" height="48"
-         style="margin: 0 12px; border-radius: 50%;" />
-  </a>
   <a href="https://vk.com/skeletoshaa" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/vk-com.png"
          alt="VK" width="48" height="48"
