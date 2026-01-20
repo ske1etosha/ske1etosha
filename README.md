@@ -3,21 +3,21 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/ske1etosha" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
-         alt="Telegram" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
+  <a href="https://t.me/ske1etosha" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"
+         alt="Telegram" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(38, 165, 228, 0.25);" />
   </a>
-  <a href="mailto:rog.konstantin@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         alt="Gmail" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
+  <a href="mailto:rog.konstantin@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"
+         alt="Gmail" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(209, 72, 54, 0.25);" />
   </a>
-  <a href="https://vk.com/skeletoshaa" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"
-         alt="VK" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
+  <a href="https://vk.com/skeletoshaa" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/vk-com.png"
+         alt="VK" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 119, 255, 0.25);" />
   </a>
-  <a href="https://github.com/skeletosha" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
-         alt="GitHub" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
+  <a href="https://github.com/ske1etosha" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png"
+         alt="GitHub" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(24, 23, 23, 0.25);" />
   </a>
 </p>
 
