@@ -3,21 +3,21 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/ske1etosha" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/ske1etosha" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
-         alt="Telegram" width="40" height="40" style="margin: 0 8px;" />
+         alt="Telegram" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
   </a>
-  <a href="mailto:rog.konstantin@gmail.com" rel="noopener noreferrer">
+  <a href="mailto:rog.konstantin@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-         alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
+         alt="Gmail" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
   </a>
-  <a href="https://vk.com/skeletoshaa" target="_blank" rel="noopener noreferrer">
+  <a href="https://vk.com/skeletoshaa" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"
-         alt="VK" width="40" height="40" style="margin: 0 8px;" />
+         alt="VK" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
   </a>
-  <a href="https://github.com/ske1etosha" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/skeletosha" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
-         alt="GitHub" width="40" height="40" style="margin: 0 8px;" />
+         alt="GitHub" width="40" height="40" style="margin: 0 8px; border: none; outline: none;" />
   </a>
 </p>
 
