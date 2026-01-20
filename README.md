@@ -1,21 +1,17 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=4A90E2&center=true&vCenter=true&width=500&height=50&lines=👋+Привет,+я+Костя;Инженер-программист" alt="Анимированный текст" />
-</h3>
-
 <p align="center">
-  <a href="https://t.me/ske1etosha" target="_blank">
+  <a href="https://t.me/ske1etosha" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
          alt="Telegram" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="mailto:rog.konstantin@gmail.com">
+  <a href="mailto:rog.konstantin@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="https://vk.com/skeletoshaa" target="_blank">
+  <a href="https://vk.com/skeletoshaa" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"
          alt="VK" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="https://github.com/ske1etosha" target="_blank">
+  <a href="https://github.com/ske1etosha" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
          alt="GitHub" width="40" height="40" style="margin: 0 8px;" />
   </a>
@@ -51,7 +47,7 @@
   - интерактивные страницы для работы с результатами;
   - подготовка артефактов для защиты диплома.
 - **Ссылки**:
-  [📦 Репозиторий](https://github.com/ske1etosha/deeplom) • [📄 Патент](https://new.fips.ru/iiss/document.xhtml?faces-redirect=true&id=5dc305e0a648cbbcc59a8452287b6b1e)
+  [📦 Репозиторий](https://github.com/ske1etosha/deeplom) • [📄 Патент (сайт ФИПС)](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2025682316&TypeFile=html) • [📑 Патент (PDF)](./document.pdf)
 
 ---
 
