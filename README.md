@@ -5,16 +5,29 @@
 <p align="center">
   <a href="https://t.me/ske1etosha" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"
-         alt="Telegram" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(38, 165, 228, 0.25);" />
+         alt="Telegram" width="48" height="48"
+         style="margin: 0 12px; border-radius: 50%;" />
+  </a>
+  <a href="mailto:rog.konstantin@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"
+         alt="Gmail" width="48" height="48"
+         style="margin: 0 12px; border-radius: 50%;" />
   </a>
   <a href="https://vk.com/skeletoshaa" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/vk-com.png"
-         alt="VK" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 119, 255, 0.25);" />
+         alt="VK" width="48" height="48"
+         style="margin: 0 12px; border-radius: 50%;" />
   </a>
   <a href="https://github.com/ske1etosha" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github--v1.png"
-         alt="GitHub" width="40" height="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0 4px 8px rgba(24, 23, 23, 0.25);" />
+         alt="GitHub" width="48" height="48"
+         style="margin: 0 12px; border-radius: 50%;" />
   </a>
+</p>
+
+<p align="center" style="color:#cccccc;">
+  📞 <b>Телефон:</b> +7&nbsp;(924)&nbsp;012‑25‑66 &nbsp;&nbsp;•&nbsp;&nbsp;
+  ✉️ <b>Email:</b> <a href="mailto:rog.konstantin@gmail.com">rog.konstantin2001@gmail.com</a>
 </p>
 
 ---
