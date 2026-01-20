@@ -3,19 +3,19 @@
 </h3>
 
 <p align="center">
-  <a href="https://t.me/ske1etosha" target="_blank" style="text-decoration: none;">
+  <a href="https://t.me/ske1etosha" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
          alt="Telegram" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="mailto:rog.konstantin@gmail.com" style="text-decoration: none;">
+  <a href="mailto:rog.konstantin@gmail.com" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
          alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="https://vk.com/skeletoshaa" target="_blank" style="text-decoration: none;">
+  <a href="https://vk.com/skeletoshaa" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"
          alt="VK" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="https://github.com/ske1etosha" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/ske1etosha" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
          alt="GitHub" width="40" height="40" style="margin: 0 8px;" />
   </a>
